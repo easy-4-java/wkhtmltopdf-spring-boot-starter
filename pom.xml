@@ -10,7 +10,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 
-	<groupId>com.github.vindell</groupId>
+	<groupId>io.github.easy4j</groupId>
 	<artifactId>spring-boot-starter-wkhtmltox4j</artifactId>
 	<description>Spring Boot Starter For wkhtmltox4j </description>
 	<version>1.0.0-SNAPSHOT</version>
